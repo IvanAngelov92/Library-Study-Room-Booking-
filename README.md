@@ -1,5 +1,5 @@
 # Library-Study-Room-Booking-
-Tools: Jira, TestRail, Postman
+Tools: JavaScript, DOM Testing
 
 Created test cases and test scenarios.
 Performed functional and usability testing.
